@@ -1,0 +1,21 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor folders
+.vscode/
+.idea/
+
+# Ignore PHP server cache files
+*.log
+*.cache
+
+# Ignore node/npm files (if later added)
+node_modules/
+dist/
+.env
+
+# Ignore compressed images or archives (optional)
+*.zip
+*.tar.gz
+*.rar
